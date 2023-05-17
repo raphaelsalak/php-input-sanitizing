@@ -1,2 +1,2 @@
 # php-input-sanitizing
-Sanitizing user input using php
+Sanitizing first name field using php
